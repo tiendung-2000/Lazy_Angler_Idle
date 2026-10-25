@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 033b3d69ad87fa04ba393047c9838af5, type: 3}
+  m_Name: Quest_r_catch
+  m_EditorClassIdentifier: LazyAngler.Runtime::LazyAngler.Data.QuestData
+  questId: r_catch
+  title: "Ng\u01B0 d\xE2n c\u1EA7n m\u1EABn: c\xE2u {0} con c\xE1"
+  metric: 0
+  baseTarget: 50
+  targetIncomeSeconds: 0
+  targetGrowth: 1.6
+  rewardKind: 0
+  rewardAmount: 300
+  rewardGrowth: 1.35

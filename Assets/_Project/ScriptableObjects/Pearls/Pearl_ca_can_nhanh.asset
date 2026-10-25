@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03736c57d4f8fee4da296a594b720e7b, type: 3}
+  m_Name: Pearl_ca_can_nhanh
+  m_EditorClassIdentifier: LazyAngler.Runtime::LazyAngler.Data.PearlUpgradeData
+  type: 2
+  upgradeId: ca_can_nhanh
+  displayName: "M\u1ED3i th\u01A1m"
+  description: "C\xE1 c\u1EAFn c\xE2u nhanh h\u01A1n."
+  baseCost: 2
+  costGrowth: 1.6
+  maxLevel: 15
+  valuePerLevel: 0.03

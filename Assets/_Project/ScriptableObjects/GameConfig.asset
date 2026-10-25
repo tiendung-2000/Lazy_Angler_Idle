@@ -1,0 +1,191 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00a8fb2c8bf5c174cba7fb19a33c7b17, type: 3}
+  m_Name: GameConfig
+  m_EditorClassIdentifier: LazyAngler.Runtime::LazyAngler.Data.GameConfig
+  fish:
+  - {fileID: 11400000, guid: ce2dbdf7beacf2344a265b8c960e22de, type: 2}
+  - {fileID: 11400000, guid: 3931cc3e02447af40b8fe368b10278e6, type: 2}
+  - {fileID: 11400000, guid: 9681cf79832dc24419972f6537783330, type: 2}
+  - {fileID: 11400000, guid: b2eb530931209d2408975ea9d0537077, type: 2}
+  - {fileID: 11400000, guid: b6ec05bb6da9bbb458750d28dd255312, type: 2}
+  - {fileID: 11400000, guid: 7a6e2c3853907dc45a260577e37240a6, type: 2}
+  - {fileID: 11400000, guid: 84817e27ff8d8a447826647628e26079, type: 2}
+  - {fileID: 11400000, guid: 0f91823d6f2c3c14ea50e1aa483cc49a, type: 2}
+  - {fileID: 11400000, guid: b3b5b7a0536d7fe49b704d78d55a094f, type: 2}
+  - {fileID: 11400000, guid: b4047dff4057e57478d8e4a2052f8722, type: 2}
+  - {fileID: 11400000, guid: 0960eac9e733bcf4cb5d27085028590f, type: 2}
+  - {fileID: 11400000, guid: f69747c0039022b478c939760fd29679, type: 2}
+  - {fileID: 11400000, guid: 596636cf0c7f60a40a2f8c7900d9f3c9, type: 2}
+  - {fileID: 11400000, guid: 25e4b98c860b15d41bcf046f409de8fb, type: 2}
+  - {fileID: 11400000, guid: aa2928cebee00e548bbc9af6945df41b, type: 2}
+  - {fileID: 11400000, guid: b6535fa30f8e2c14da8b9ac7b10210a9, type: 2}
+  - {fileID: 11400000, guid: 78a7b98bdd79477498660c09c659e441, type: 2}
+  - {fileID: 11400000, guid: c8557848f3a0f154cbe9bf678d836798, type: 2}
+  - {fileID: 11400000, guid: 180774531399f3e47935021919477349, type: 2}
+  - {fileID: 11400000, guid: 1a80309ec56a03b4e943d9c97d69daea, type: 2}
+  - {fileID: 11400000, guid: ab57a60e75cf85540bdcae13d4b97dad, type: 2}
+  - {fileID: 11400000, guid: 19f3a904891874846a10d92fe61a62d1, type: 2}
+  - {fileID: 11400000, guid: e140bf72ca4e15444ae56415ef53666c, type: 2}
+  - {fileID: 11400000, guid: 78267caf791b7a842acc8c58819031a3, type: 2}
+  - {fileID: 11400000, guid: d77b176dc15a543438d446540b029d14, type: 2}
+  - {fileID: 11400000, guid: ff3fbd0a386140846bf30bc1f0d926d1, type: 2}
+  - {fileID: 11400000, guid: fdd3e8ef9adae5648866c53fceab0514, type: 2}
+  - {fileID: 11400000, guid: 87050d76945573f42ab802bc0b8146a0, type: 2}
+  - {fileID: 11400000, guid: 84a25719c722bd14db03fbad87a0effc, type: 2}
+  - {fileID: 11400000, guid: ee95da78395174f45bc6dd3edb17e470, type: 2}
+  - {fileID: 11400000, guid: a47781c67bd0fb24e886c40b69ca88a5, type: 2}
+  - {fileID: 11400000, guid: 2c7db6a9d37e07048be8106394d0fc1b, type: 2}
+  - {fileID: 11400000, guid: 595e510aa9aaef4419d702fde770c391, type: 2}
+  - {fileID: 11400000, guid: 9b8fc0aec738cb84eb2bec94152050a6, type: 2}
+  - {fileID: 11400000, guid: f84ba1adbba7da3449ba820cbd0bc032, type: 2}
+  - {fileID: 11400000, guid: c32e5f9cc64769642974c8772349f681, type: 2}
+  - {fileID: 11400000, guid: 4938b9e5e3c93f440b1fdcc7fb0dfe62, type: 2}
+  - {fileID: 11400000, guid: e2aaa1264363e894db2773e29dc62452, type: 2}
+  - {fileID: 11400000, guid: 3fb4f32647851c54aa429f0d77acee79, type: 2}
+  - {fileID: 11400000, guid: c2d0dbceaed8a1841ae6cb0dfbca6be7, type: 2}
+  - {fileID: 11400000, guid: 004a46375f9af9649a0ea8017a8e491c, type: 2}
+  - {fileID: 11400000, guid: aaaf72caa2bb02845ac3501dcb27f321, type: 2}
+  - {fileID: 11400000, guid: 160564361be66e444a4264fc27545a05, type: 2}
+  - {fileID: 11400000, guid: bc78088cc8d4b0740b1af445bd5d8cd4, type: 2}
+  - {fileID: 11400000, guid: dc684d6583b176d4a8d7e572c6162c04, type: 2}
+  - {fileID: 11400000, guid: 87f730fefd963744f9b2bc7e7288c229, type: 2}
+  - {fileID: 11400000, guid: 593fa3747656d4c4ab34354b5b7d8572, type: 2}
+  - {fileID: 11400000, guid: 4a741d6229f616047803645ae14355e5, type: 2}
+  - {fileID: 11400000, guid: 7cd7da5335057c44996facde1ac0e900, type: 2}
+  - {fileID: 11400000, guid: e61541eda0ccdbc4ab3dc435a9aac403, type: 2}
+  - {fileID: 11400000, guid: 20882b803e5bea4409f18853954b31fa, type: 2}
+  - {fileID: 11400000, guid: 34d60529a2ea8d14ca62e4a1bda1d39e, type: 2}
+  - {fileID: 11400000, guid: a57b19625394d4c4bac265473c31d40d, type: 2}
+  zones:
+  - {fileID: 11400000, guid: 152c701e9d137da4ba177c4e3cb4b3de, type: 2}
+  - {fileID: 11400000, guid: 4f90cdfc01ceca8478871c2f4f322b53, type: 2}
+  - {fileID: 11400000, guid: 02a4dceabb6aaab48bd418d28821d619, type: 2}
+  - {fileID: 11400000, guid: 807352dd5e7c37c4fb9e043c6266abec, type: 2}
+  - {fileID: 11400000, guid: fd424eb97c783bd42b406cb31ddc8592, type: 2}
+  - {fileID: 11400000, guid: 0140374e0fc05e2478eef5bc93d82d35, type: 2}
+  rarityWeights:
+  - 60
+  - 25
+  - 10
+  - 4
+  - 1
+  trashChance: 0.05
+  trashPrice: 1
+  baseFishingDuration: 5
+  castReductionPerLevel: 0.97
+  minCastSeconds: 1
+  baseBiteChance: 0.5
+  biteChancePerLevel: 0.02
+  maxBiteChance: 0.5
+  biteCheckInterval: 1
+  castSeconds: 1.8
+  baseBiteWaitSeconds: 4
+  biteWaitRandomness: 0.3
+  baitBiteSpeedPerLevel: 0.04
+  maxBiteSpeedMultiplier: 2.5
+  biteReactSeconds: 0.6
+  baseMissChance: 0.25
+  missReductionPerUpgradeLevel: 0.01
+  minMissChance: 0.05
+  missRecoverSeconds: 1.2
+  rareIdleTimeout: 120
+  rewardNormalFishOnRareFail: 0
+  baseRareChance: 0.08
+  rareChancePerLevel: 0.01
+  maxRareChance: 0.3
+  rodTiers:
+  - {fileID: 11400000, guid: ac1610b4e2a69ba488b80836b5d9612e, type: 2}
+  - {fileID: 11400000, guid: 3aa98bd234f9b7849ab4d11c84e04a53, type: 2}
+  - {fileID: 11400000, guid: f41a376051505c641a2f70d0ddafc13a, type: 2}
+  - {fileID: 11400000, guid: 582149be0bab032438572e393d0ca3cf, type: 2}
+  - {fileID: 11400000, guid: 593a127e99985354e84d7c21e2b4a66c, type: 2}
+  skins:
+  - {fileID: 11400000, guid: 9c5cb53055813ad458e3393b488e5e04, type: 2}
+  - {fileID: 11400000, guid: 24d89b3d59d3ad84d95208518d564ac7, type: 2}
+  - {fileID: 11400000, guid: ec5ffc418c7386341897816e5e503640, type: 2}
+  - {fileID: 11400000, guid: 9d2b572b101c0a743a5f45e690e79832, type: 2}
+  - {fileID: 11400000, guid: 27a8acd3b4c3edb4e92a556e36b16ff2, type: 2}
+  rodUpgrade: {fileID: 11400000, guid: a2d99c72a73558d44860f984daf3d231, type: 2}
+  baitUpgrade: {fileID: 11400000, guid: b95fce22d55d64b46a703753771f3661, type: 2}
+  boatUpgrade: {fileID: 11400000, guid: 3b7deaf8c6249694cb6cb8dfd4cb517a, type: 2}
+  vaultUpgrade: {fileID: 11400000, guid: 9b9ac265b5d82764480f6f47f6150725, type: 2}
+  fishValueUpgrade: {fileID: 11400000, guid: 8afb0cc7904401c4c8b9416b89a78175, type: 2}
+  luckUpgrade: {fileID: 11400000, guid: bc64f5fca0f20ae4891784b98e66ca52, type: 2}
+  fishValuePerLevel: 0.1
+  biteUpgrade: {fileID: 11400000, guid: 3a7e7ed882b084d4bb6e6166f2316bd7, type: 2}
+  bossChancePerBite: 0.004
+  bossPearlsPerCatch: 3
+  bossFirstCatchPearls: 10
+  sunsetStartHour: 17
+  nightStartHour: 19
+  nightEndHour: 5
+  rainWindowsPerDay: 2
+  rainMinutes: {x: 30, y: 60}
+  sunsetValueBonus: 0.25
+  nightRareBonus: 0.05
+  rainBiteSpeedBonus: 0.25
+  eventFishWeight: 3
+  eventSetPearls: 4
+  aquariumBaseSlots: 3
+  aquariumSlotPearlCosts: 020000000300000005000000080000000c0000001200000019000000
+  aquariumMinRarity: 2
+  aquariumRarityBonus:
+  - 0.005
+  - 0.01
+  - 0.02
+  - 0.04
+  - 0.08
+  aquariumVariantMultiplier: 2
+  baits:
+  - {fileID: 11400000, guid: c01f973efb1e56b41bbb9093f8350224, type: 2}
+  - {fileID: 11400000, guid: 19739b3002bb17b4da527328b8222420, type: 2}
+  - {fileID: 11400000, guid: fee82e1a6e3374c43b565ca7401dfb68, type: 2}
+  - {fileID: 11400000, guid: 636b4aeb3db627a4890024124ae40394, type: 2}
+  - {fileID: 11400000, guid: 28dba93c19c36214b8a8de97b0706362, type: 2}
+  - {fileID: 11400000, guid: 881af64037b204b4b8de2d0a77483697, type: 2}
+  - {fileID: 11400000, guid: df68dad4fb48fea47aa4b72978228661, type: 2}
+  - {fileID: 11400000, guid: 394265189b605db4990909f5fb561000, type: 2}
+  - {fileID: 11400000, guid: 22478cad484408746b931f76a8cb5ba6, type: 2}
+  - {fileID: 11400000, guid: b3795108c9d91484aa0d0893099d81fe, type: 2}
+  - {fileID: 11400000, guid: ca09306024dde7949bd3206a1320554c, type: 2}
+  - {fileID: 11400000, guid: 6b315e62a4a290c4bbcf33bfcdd9b759, type: 2}
+  dailyQuestPool:
+  - {fileID: 11400000, guid: f8fd11d236d306e40a682dddd6ca36d3, type: 2}
+  - {fileID: 11400000, guid: 1f87229cdd0dda7418c0c792b1cef722, type: 2}
+  - {fileID: 11400000, guid: fa927c9c27eab874b9dae0ed1db1cd45, type: 2}
+  - {fileID: 11400000, guid: 7a072a87629537e40bda3a2f7efb1aa8, type: 2}
+  - {fileID: 11400000, guid: 0a99e6f1aa7571d408fd123cc0c17403, type: 2}
+  - {fileID: 11400000, guid: 3511607c968d37f41b155737743bbcc5, type: 2}
+  - {fileID: 11400000, guid: dad21438e18078b4ca224993d034f61b, type: 2}
+  dailyQuestCount: 3
+  repeatingQuests:
+  - {fileID: 11400000, guid: 619d67ee217183749977774fff11fea6, type: 2}
+  - {fileID: 11400000, guid: b5d60f9ddb924dc48ad9db45cb73fe74, type: 2}
+  - {fileID: 11400000, guid: 05a7bc107c2e2fa47ad4f8a8e8cfe8e0, type: 2}
+  - {fileID: 11400000, guid: 810fea5b98d95cd4bb56784926d852e3, type: 2}
+  - {fileID: 11400000, guid: 02749d9cfa878454191eabf06d48ce4c, type: 2}
+  variantChance: 0.03
+  variantPriceMultiplier: 3
+  rarityCompletionPearls: 0100000001000000020000000300000005000000
+  variantCompletionPearls: 5
+  prestigeCoinDivisor: 10000
+  pearlUpgrades:
+  - {fileID: 11400000, guid: 9066a5fcd8b1a3d49a04c59b289dcab8, type: 2}
+  - {fileID: 11400000, guid: 02c98306a529a044693f6f8dc08127b5, type: 2}
+  - {fileID: 11400000, guid: b0ce4165dce1c844dae05a327c2aa7d3, type: 2}
+  - {fileID: 11400000, guid: dba4a4a6f01115c4ab375cb4185ed475, type: 2}
+  - {fileID: 11400000, guid: 2d9bb85975a5b124ab715ffa6139282d, type: 2}
+  startingCoins: 0
+  startingBoatLevel: 1
+  startingVaultLevel: 1
+  balanceVersion: 2

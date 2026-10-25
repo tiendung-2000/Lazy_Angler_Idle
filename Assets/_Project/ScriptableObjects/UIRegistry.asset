@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a4d6bcb1003800479975ac7b93b9574, type: 3}
+  m_Name: UIRegistry
+  m_EditorClassIdentifier: LazyAngler.Runtime::LazyAngler.UI.UIRegistry
+  panels:
+  - {fileID: 7737889710580684058, guid: 4eb760bbcf0bf604e9a225106692d380, type: 3}
+  - {fileID: 6167677049121076143, guid: 67000e36ece63bf46ac218c024907d2c, type: 3}
+  - {fileID: 3162491988975814528, guid: f481a4fa3d6a99d4eac6f31bd2db45b7, type: 3}
+  - {fileID: 2501941274807047851, guid: 1400a6c1d58a5fb4abd71ffd4614c805, type: 3}
+  - {fileID: 912149197094386571, guid: db2cf99c863885b4ba6cfdadb21a6122, type: 3}
+  - {fileID: 7754473126489060931, guid: 1e7b7fb9b39f61a4c9f014ad6ca538fa, type: 3}
+  - {fileID: 6043418857834316565, guid: 21141a4b6e6e0a640ab8313a637634e6, type: 3}
+  - {fileID: 2541763507304393903, guid: 93af6131d1663c64fa5dd4c781baf7e1, type: 3}
+  - {fileID: 7176809426151421630, guid: a50c9b4e131c2674d89ed8088d8278bb, type: 3}
+  - {fileID: 5112029996620988661, guid: aec7134c3b49fed4d871f132f34f802d, type: 3}
+  - {fileID: 8609231826004008171, guid: 6397c78004af6fb49832d83715a44458, type: 3}
+  - {fileID: 2082134428473239025, guid: 72c53b8039287c040b95ce46cbadc5a8, type: 3}
+  - {fileID: 3075698429918499266, guid: 6abac387077715f439d6c7f25b4ba0d6, type: 3}
+  - {fileID: 1317528008892293821, guid: 53d88c8f506c2124185666fbca4c509e, type: 3}
+  - {fileID: 5979409887431775981, guid: 6ddd8202a0787444498828435a79b21c, type: 3}
+  - {fileID: 795766989295340875, guid: 2b83d7299e797144388dff763b18dfec, type: 3}
+  - {fileID: 1019731364151009669, guid: a9edd53496a93094a8312d33eea6d17f, type: 3}

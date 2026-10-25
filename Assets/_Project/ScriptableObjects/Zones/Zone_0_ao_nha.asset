@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b98637931bdc81c4a914682aee459aa7, type: 3}
+  m_Name: Zone_0_ao_nha
+  m_EditorClassIdentifier: LazyAngler.Runtime::LazyAngler.Data.ZoneData
+  zoneId: ao_nha
+  displayName: "Ao nh\xE0"
+  description: "Ao sau v\u01B0\u1EDDn, c\xE1 hi\u1EC1n d\u1EC5 c\xE2u."
+  requiredRodTier: 0
+  requiredBiteLevel: 0
+  requiredBaitLevel: 0
+  biteChanceMultiplier: 1
+  missChanceBonus: 0
+  reelDurationMultiplier: 1
+  biteWaitMultiplier: 1
+  mapPrefab: {fileID: 7381010691683600407, guid: 2e814b286a7d77649a888501bbb683d2, type: 3}
+  themeColor: {r: 0.32, g: 0.62, b: 0.45, a: 1}

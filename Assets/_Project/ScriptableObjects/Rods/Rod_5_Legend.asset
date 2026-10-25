@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af393ab37eb5f794795ba885d08b962a, type: 3}
+  m_Name: Rod_5_Legend
+  m_EditorClassIdentifier: LazyAngler.Runtime::LazyAngler.Data.RodTierData
+  displayName: "C\u1EA7n huy\u1EC1n tho\u1EA1i"
+  fishingSpeedMultiplier: 3
+  biteChance: 0.28
+  biteSpeedMultiplier: 1.8
+  missChance: 0.06
+  unlockCost: 15000
+  dataVersion: 2
+  buttSprite: {fileID: 1961947444, guid: bd8381f55e67317479d1e6dd734a9759, type: 3}
+  midSprite: {fileID: -1216103687, guid: bd8381f55e67317479d1e6dd734a9759, type: 3}
+  tipSprite: {fileID: -400620864, guid: bd8381f55e67317479d1e6dd734a9759, type: 3}
+  midSegments: 2
+  sparkle: 1
+  sparkleColor: {r: 1, g: 0.9, b: 0.4, a: 1}

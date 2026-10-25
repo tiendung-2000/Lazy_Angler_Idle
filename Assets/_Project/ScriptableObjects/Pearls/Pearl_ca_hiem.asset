@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03736c57d4f8fee4da296a594b720e7b, type: 3}
+  m_Name: Pearl_ca_hiem
+  m_EditorClassIdentifier: LazyAngler.Runtime::LazyAngler.Data.PearlUpgradeData
+  type: 1
+  upgradeId: ca_hiem
+  displayName: "\u0110i\u1EC1m may"
+  description: "T\u0103ng t\u1EC9 l\u1EC7 g\u1EB7p c\xE1 hi\u1EBFm, k\u1EC3 c\u1EA3
+    khi May m\u1EAFn \u0111\xE3 ch\u1EA1m tr\u1EA7n."
+  baseCost: 2
+  costGrowth: 1.7
+  maxLevel: 10
+  valuePerLevel: 0.005

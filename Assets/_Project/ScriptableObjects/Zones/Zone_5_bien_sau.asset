@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b98637931bdc81c4a914682aee459aa7, type: 3}
+  m_Name: Zone_5_bien_sau
+  m_EditorClassIdentifier: LazyAngler.Runtime::LazyAngler.Data.ZoneData
+  zoneId: bien_sau
+  displayName: "Bi\u1EC3n s\xE2u"
+  description: "V\u1EF1c t\u1ED1i kh\xF4ng \u0111\xE1y, qu\xE1i ng\u01B0 \u1EA9n
+    m\xECnh."
+  requiredRodTier: 4
+  requiredBiteLevel: 9
+  requiredBaitLevel: 8
+  biteChanceMultiplier: 0.5
+  missChanceBonus: 0.15
+  reelDurationMultiplier: 1.7
+  biteWaitMultiplier: 1.6
+  mapPrefab: {fileID: 5768509753942653841, guid: d279f1215918fb54e909e6da65a937f9, type: 3}
+  themeColor: {r: 0.06, g: 0.2, b: 0.4, a: 1}

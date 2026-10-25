@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a58f463da7242742ba106a25f226586, type: 3}
+  m_Name: FishingArtSet
+  m_EditorClassIdentifier: LazyAngler.Runtime::LazyAngler.Visual.FishingArtSet
+  pixelsPerUnit: 32
+  fishermanFrames:
+  - {fileID: 7638019610821655944, guid: 948a4061bd784a04fbd21ea80bb99324, type: 3}
+  - {fileID: 2538004209770703685, guid: 948a4061bd784a04fbd21ea80bb99324, type: 3}
+  - {fileID: 6796088082263785148, guid: 948a4061bd784a04fbd21ea80bb99324, type: 3}
+  - {fileID: 8603807639128184365, guid: 948a4061bd784a04fbd21ea80bb99324, type: 3}
+  - {fileID: 1160920080702546751, guid: 948a4061bd784a04fbd21ea80bb99324, type: 3}
+  - {fileID: 4204242970257552423, guid: 948a4061bd784a04fbd21ea80bb99324, type: 3}
+  - {fileID: 5713923403533634886, guid: 948a4061bd784a04fbd21ea80bb99324, type: 3}
+  - {fileID: 8834920396437679775, guid: 948a4061bd784a04fbd21ea80bb99324, type: 3}
+  shoulderPixels:
+  - {x: 14, y: 20}
+  - {x: 14, y: 19}
+  - {x: 14, y: 20}
+  - {x: 14, y: 20}
+  - {x: 15, y: 20}
+  - {x: 12, y: 20}
+  - {x: 13, y: 19}
+  - {x: 15, y: 19}
+  arm: {fileID: -778173193, guid: b6100028def631a4d97d5a3170827162, type: 3}
+  bobber: {fileID: -1281231157, guid: b6100028def631a4d97d5a3170827162, type: 3}
+  alert: {fileID: 1035566974, guid: b6100028def631a4d97d5a3170827162, type: 3}
+  sparkle: {fileID: 64946643, guid: b6100028def631a4d97d5a3170827162, type: 3}
+  bucket: {fileID: 823719227, guid: b6100028def631a4d97d5a3170827162, type: 3}
+  dockPlank: {fileID: -1258571001, guid: b6100028def631a4d97d5a3170827162, type: 3}
+  dockPost: {fileID: -1618843338, guid: b6100028def631a4d97d5a3170827162, type: 3}
+  sun: {fileID: 1924003466, guid: b6100028def631a4d97d5a3170827162, type: 3}
+  cloud: {fileID: 1415023695, guid: b6100028def631a4d97d5a3170827162, type: 3}
+  island: {fileID: 1736718980, guid: b6100028def631a4d97d5a3170827162, type: 3}
+  fishSmall: {fileID: -598266974, guid: b6100028def631a4d97d5a3170827162, type: 3}
+  fishLarge: {fileID: -603337015, guid: b6100028def631a4d97d5a3170827162, type: 3}
+  ringBase: {fileID: 1619626206, guid: 517b40c7376826c49b36e642bf9c347a, type: 3}
+  ringTrack: {fileID: -553872468, guid: 517b40c7376826c49b36e642bf9c347a, type: 3}
+  needle: {fileID: 1180505346, guid: 517b40c7376826c49b36e642bf9c347a, type: 3}
+  hub: {fileID: -1059636460, guid: 517b40c7376826c49b36e642bf9c347a, type: 3}
+  pipFull: {fileID: 25391748, guid: 517b40c7376826c49b36e642bf9c347a, type: 3}
+  pipEmpty: {fileID: 1871106564, guid: 517b40c7376826c49b36e642bf9c347a, type: 3}
+  check: {fileID: 1453508465, guid: 517b40c7376826c49b36e642bf9c347a, type: 3}
+  cross: {fileID: -1728009288, guid: 517b40c7376826c49b36e642bf9c347a, type: 3}

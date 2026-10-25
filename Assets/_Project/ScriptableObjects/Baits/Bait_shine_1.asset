@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33f99691017bb0d489355493eb35970d, type: 3}
+  m_Name: Bait_shine_1
+  m_EditorClassIdentifier: LazyAngler.Runtime::LazyAngler.Data.BaitData
+  baitId: shine_1
+  displayName: "B\u1ED9t sao su\u1ED1i"
+  description: "T\u0103ng c\u01A1 h\u1ED9i c\xE2u \u0111\u01B0\u1EE3c c\xE1 bi\u1EBFn
+    th\u1EC3 \u1EDF map n\xE0y."
+  zoneIndex: 1
+  price: 1200
+  durationSeconds: 300
+  rareBonus: 0
+  variantBonus: 0.07
